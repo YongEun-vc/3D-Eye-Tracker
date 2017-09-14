@@ -5,6 +5,7 @@ project( 3d_eye_tracker )
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_SOURCE_DIR}/cmake)
 set(CMAKE_INSTALL_PREFIX "./install") 
 
+# Trash
 # Your custom paths to Boost and OpenCV libraries
 set(BOOST_ROOT "C:/SDK/boost_1_62_0")
 set(OpenCV_DIR "C:/SDK/opencv-3.1.0/build")
